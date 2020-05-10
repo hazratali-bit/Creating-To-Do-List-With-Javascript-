@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+This is a to do list. i have created with css and vanilla javasript(js6). The project do use the local storage of the 
+browser to store the data so that when the user add some information and then refresh the window then the program have to 
+load information from the local storage of the browser. 
 
-You can use the [editor on GitHub](https://github.com/hazratali-bit/Creating-To-Do-List-With-Javascript-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+you can make it better if you are internted.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Functionalities:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hazratali-bit/Creating-To-Do-List-With-Javascript-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. you can add element to the list very easily.
+2. you can remove the element from the list.
+3. The data is stored locally and whenever the user come bach the data will be there.
